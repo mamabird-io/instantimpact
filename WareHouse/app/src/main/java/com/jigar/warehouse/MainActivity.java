@@ -85,8 +85,8 @@ public class MainActivity extends AppCompatActivity {
         // Header Text and Image
         imgNavHeaderBg.setImageDrawable(getResources().getDrawable(R.drawable.drone_scan));
         imgProfile.setImageDrawable(getResources().getDrawable(R.drawable.drone_find));
-        txtName.setText("Jigar Patel");
-        txtWebsite.setText("jigarpatel.ga");
+        txtName.setText("Admin");
+        txtWebsite.setText("admin.ga");
 
 
         viewPager = findViewById(R.id.viewpager);
